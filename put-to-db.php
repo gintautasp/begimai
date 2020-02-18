@@ -9,6 +9,8 @@
 <?php
 
 	$gpx = simplexml_load_file( "20200216_095948.gpx" );
+	
+	// https://lt.geofumadas.com/kompleksiniai-scenarijai-for-skai%C4%8Diavimai/
 
 	foreach ( $gpx -> trk as $trk ) {
 	
