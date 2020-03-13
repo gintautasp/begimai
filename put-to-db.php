@@ -29,8 +29,6 @@
 	
 	function mk_point_z ( $pt_from, $pt_to ) {
 	
-		
-		
 	}
 
 	$gpx = simplexml_load_file( "20200216_095948.gpx" );
